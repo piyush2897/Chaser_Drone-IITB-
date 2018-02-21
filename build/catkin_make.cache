@@ -1,0 +1,2 @@
+demo1:mavros/libmavconn:mavros/mavros:mavros/mavros_extras:mavros/mavros_msgs:mavros/test_mavros:pluto_drone/pluto_drone:pluto_drone/plutodrone:pluto_drone/plutoserver:task_1:task_1_2:whycon
+-DCATKIN_DEVEL_PREFIX=/home/piyush/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/piyush/catkin_ws/install -G Unix Makefiles

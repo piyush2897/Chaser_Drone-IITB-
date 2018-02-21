@@ -1,0 +1,8 @@
+prefix=/home/piyush/catkin_ws/devel
+
+Name: demo1
+Description: Description of demo1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/piyush/catkin_ws/devel/lib 
+Requires: 

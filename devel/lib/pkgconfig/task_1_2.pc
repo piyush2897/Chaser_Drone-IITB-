@@ -1,0 +1,8 @@
+prefix=/home/piyush/catkin_ws/devel
+
+Name: task_1_2
+Description: Description of task_1_2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/piyush/catkin_ws/devel/lib 
+Requires: 
